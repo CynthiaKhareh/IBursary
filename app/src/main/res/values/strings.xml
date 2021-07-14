@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iBursary</string>
+    <string name="Description_txt">\t\t\t\t\t\tAbout us:\niBursary is a computerised system that enables online application of bursary funds to university students.
+    The system will mainly be developed for Kiambu county.Due to the high educational demands, educational institution in kenya have turned out to be too expensive for the ordinary people.Some are forced to drop out of their educational career due to lack of enough money for school fees and other
+    educational materials required.\n\n\t\t\t\t\t\tHow to Apply:\n<b>-</b>The Bursary programme by the county government are accessed by filling an online
+    application form or by visiting the county government offices in your county or any chief/sub-chief office.\n
+    <b>-</b>Applicants should fully fill the application form with the help of the guardian or parent and must fill all the details required.\n
+   <b>-</b>Application forms are then submitted after full filling and ascertained that the information provided is of highest percentage of truth to the county
+    government.\n\nThe application form should be processed within a stipulated time frame after this period,the successful applicants will be notified and would
+    have their fees paid by the county government. Applicants can enquire if their applications were successful by simply contact us.
+    \n These bursaries have been able to see off the needy students get education which will definitely brighten their future and lead to a prosperous country.\n
+    These funds are provided after every four months and applicants can apply when the forms are available by the county government officials to be awarded and continue with their education.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Title">\t\tTHE COUNTY GOVERNMENT OF KIAMBU\nDepartment of Education,YouthAffairs and Social services Kiambu County.\n\n\t\t\t\tEDUCATION BURSARY FUND\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

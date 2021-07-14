@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/names"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/university"
+        android:layout_width="31dp"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_weight="33"
+        android:id="@+id/admission"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_weight="33"
+        android:id="@+id/fee_payable"/>
+
+    <TextView
+        android:id="@+id/fee_balance"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_weight="33"
+        android:id="@+id/application_date"/>
+</LinearLayout>
